@@ -1,0 +1,2 @@
+NroE: 5 |  Edad: 24 |  Dni: 0 |  NyA: Joaquin Molina
+NroE: 6 |  Edad: 30 |  Dni: 0 |  NyA: Luchito Bar

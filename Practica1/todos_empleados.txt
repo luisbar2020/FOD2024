@@ -1,0 +1,6 @@
+NroE: 1Edad: 23Dni: 1NyA: Luis Barquin
+NroE: 2Edad: 29Dni: 2NyA: Berly Quispe
+NroE: 3Edad: 33Dni: 3NyA: Eliza Lima
+NroE: 4Edad: 71Dni: 4NyA: Joshua
+NroE: 5Edad: 24Dni: 0NyA: Joaquin Molina
+NroE: 6Edad: 30Dni: 0NyA: Luchito Bar
